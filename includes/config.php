@@ -13,9 +13,9 @@ function getConnection() {
     // Lab / server
     else {
         $db_host = "localhost";
-        $db_user = "uYOURID";
-        $db_pass = "uYOURID";
-        $db_name = "dbYOURID";
+        $db_user = "u202204310";
+        $db_pass = "asdASD123!";
+        $db_name = "db202204310";
     }
 
     $conn = mysqli_connect($db_host, $db_user, $db_pass, $db_name);
